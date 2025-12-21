@@ -71,6 +71,15 @@ const content = {
         ],
         projects: [
             {
+                title: "PID Line Follower",
+                event: "Personal Project",
+                date: "Dec 2024",
+                description: "High-performance line follower robot powered by ESP32 Mini, featuring custom PCB and advanced PID control algorithm.",
+                tags: ["ESP32", "C++", "PID Control", "PCB Design"],
+                links: { source: "https://github.com/youcefboubidi/pid-line-follower-esp32-mini" },
+                color: "from-red-500 to-orange-600"
+            },
+            {
                 title: "AI Medical Chatbot",
                 event: "DevFest Constantine",
                 date: "Dec 2023",
@@ -169,6 +178,15 @@ const content = {
             },
         ],
         projects: [
+            {
+                title: "Suiveur de Ligne PID",
+                event: "Projet Personnel",
+                date: "Déc 2024",
+                description: "Robot suiveur de ligne haute performance propulsé par ESP32 Mini, avec PCB personnalisé et algorithme de contrôle PID avancé.",
+                tags: ["ESP32", "C++", "Contrôle PID", "Conception PCB"],
+                links: { source: "https://github.com/youcefboubidi/pid-line-follower-esp32-mini" },
+                color: "from-red-500 to-orange-600"
+            },
             {
                 title: "Chatbot Médical IA",
                 event: "DevFest Constantine",
